@@ -59,6 +59,4 @@ For GitHub Pages deployment, add this to your package.json:
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
-  // ...other scripts
-}                - 
-6. 
+
