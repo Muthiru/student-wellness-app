@@ -61,7 +61,4 @@ For GitHub Pages deployment, add this to your package.json:
   "deploy": "gh-pages -d build",
   // ...other scripts
 }                - 
-6. Then install the gh-pages package:
-npm install --save-dev gh-pages
-7. Add deploy with :
-npm run deploy
+6. 
